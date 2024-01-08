@@ -1,0 +1,127 @@
+.sidebar{
+    flex:25%;
+    
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    top: 100px;
+    bottom: 0px;
+    right: 0px;
+    
+    align-items: center; 
+    row-gap: 55px;
+}
+
+.sidebar-pre-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    
+    row-gap: 85px;
+}
+
+
+.sidebar-preview{
+    position: relative;
+    display: inline-block; 
+    cursor: pointer;               
+}
+
+.sidebar-preview:hover .sidebar-preview-img{
+    box-shadow: 0 0 5px rgba(0,0,0,0.7);
+}
+
+.sidebar-title{
+    font-weight: bold;
+    font-size: 28px;
+    color:rgb(8, 79, 165) ;
+    margin-top: 60px;
+}
+
+
+.sidebar-preview-img{
+    width:260px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.15s;
+}
+
+.sidebar-preview-text{
+    position: absolute;
+    bottom: 4px;
+    left:0px;
+    right: 0px;
+    background-color: rgba(0,0,0,0.6);
+    padding: 12px;
+    color: white;
+    font-size: 32px;
+    font-family: Arial;
+    text-align: center;
+
+}
+
+@media screen and (max-width: 1235px){
+    .sidebar{
+        display: none; 
+    }
+
+    .column {
+        flex-direction: column; 
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .column {
+        flex-direction: column; 
+    }
+
+    .city-container {
+        flex: 100%; /* kucuk ekranda sadece bu kaldı zaten */
+        margin: 20px; 
+        padding: 15px; 
+    }
+
+    .city-container {
+        margin-top: 30px; 
+        margin-left: 0; 
+    }
+
+    .city-img {
+        width: 100%; /* kucukk ekran yuzunden yine */
+        min-width: unset; /*  minimum width kaldırdım zaten kucuk ekran */
+        max-height: 100%; 
+    }
+
+
+    .sidebar{
+        display: none; /*sidebar gitti */
+    }
+
+    .city-info-text {
+        font-size: 18px; 
+        line-height: 26px; 
+        margin-bottom: 20px; 
+    }
+
+    .city-title{
+        font-size: 24px; 
+    }
+
+    .city-subtitle{
+        font-size: 22px ;
+    }
+
+    .city-subtitle-smaller{
+        font-size: 20px;
+    }
+
+    .note-title{
+        font-size: 20px;
+    }
+
+    .note p {
+        font-size: 18px;
+    }
+}
+

@@ -1,0 +1,329 @@
+.region-container{
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    padding:60px 8px 15px 15px;
+    margin-bottom: 20px;
+    background-color: rgb(254, 252, 252);
+
+}
+
+.website-path{
+    font-size: 16px;
+    color:rgb(120,120,120);
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.region-title{
+    font-size:32px;
+    font-weight: bold;
+    color:rgb(8, 79, 165) ;
+    text-indent: 6px;
+    margin-bottom: 14px;
+}
+
+.region-info{
+    font-size: 24px;
+    color: rgb(46, 45, 45);
+    text-indent: 6px;
+    margin-bottom: 14px;
+    line-height: 32px; 
+}
+
+
+@media (max-width: 768px) {
+    .region-container {
+        padding: 40px 8px 10px 10px;
+        margin-bottom: 15px;
+    }
+
+    .website-path {
+        font-size: 14px;
+        margin-bottom: 15px;
+        margin-top: 80px; 
+    }
+
+    .region-title {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .region-info {
+        font-size: 20px;
+        margin-bottom: 18px;
+        line-height: 28px;
+    }
+}
+
+
+
+
+.city-previews-flexbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap: 40px;
+    row-gap: 48px;
+    justify-content: center;
+    align-self: center; 
+    margin-top: 80px;
+    margin-bottom: 15px; 
+   
+}
+
+.antalya-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/antalya.jpeg);
+
+    background-size: cover;
+    display: block;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.adana-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/adana-genel.jpeg);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.hatay-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/hatay.png);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.gaziantep-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/gaziantep-genel.jpeg);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.sanliurfa-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/sanliurfa-genel.jpeg);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.mardin-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/mardin-genel.jpeg);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.istanbul-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/istanbul-genel.jpg);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.canakkale-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/canakkale-genel.webp);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.bursa-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_resimler/bursa-genel.jpeg);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.italya-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_yurtdisi_resimler/italya-genel.jpeg);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.japonya-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_yurtdisi_resimler/japongenel.jpeg);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.misir-preview{
+    position: relative;
+    height: 270px;
+    width: 400px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0),
+     rgba(74, 72, 72, 0.75)),url(../proje_yurtdisi_resimler/misir-genel.webp);
+
+    background-size: cover;
+    border-radius: 3px;
+    display: block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+
+.city-overlay{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.45);
+    color: white;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    opacity: 0; /* overlay saklı */
+    transition: opacity 0.15s ;   
+}
+
+.city-overlay-text{
+    position:absolute;
+    bottom: 40px;
+    left: 15px;
+    opacity: 0;
+    transition: opacity 0.15s ;  
+    color: white;
+    
+    display: flex;
+    align-items: center;
+}
+
+.misir-preview:hover .city-overlay,
+.japonya-preview:hover .city-overlay,
+.italya-preview:hover .city-overlay,
+.bursa-preview:hover .city-overlay,
+.canakkale-preview:hover .city-overlay,
+.istanbul-preview:hover .city-overlay,
+.mardin-preview:hover .city-overlay,
+.sanliurfa-preview:hover .city-overlay,
+.gaziantep-preview:hover .city-overlay,
+.hatay-preview:hover .city-overlay,
+.adana-preview:hover .city-overlay,
+.antalya-preview:hover .city-overlay {
+    opacity: 1; /* overlay gözüksün */
+}
+
+.misir-preview:hover .city-overlay-text,
+.japonya-preview:hover .city-overlay-text,
+.italya-preview:hover .city-overlay-text,
+.bursa-preview:hover .city-overlay-text,
+.canakkale-preview:hover .city-overlay-text,
+.istanbul-preview:hover .city-overlay-text,
+.mardin-preview:hover .city-overlay-text,
+.sanliurfa-preview:hover .city-overlay-text,
+.gaziantep-preview:hover .city-overlay-text,
+.hatay-preview:hover .city-overlay-text,
+.adana-preview:hover .city-overlay-text,
+.antalya-preview:hover .city-overlay-text{
+    opacity: 1;
+}
+
+.city-label{
+    position: absolute;
+    bottom: 15px;
+    left: 12px;
+    display: flex;
+    align-items: center;
+    opacity: 1;
+    transition: opacity 0.15s ;
+}
+
+
+.misir-preview:hover .city-label,
+.japonya-preview:hover .city-label,
+.italya-preview:hover .city-label,
+.bursa-preview:hover .city-label,
+.canakkale-preview:hover .city-label,
+.istanbul-preview:hover .city-label,
+.mardin-preview:hover .city-label,
+.sanliurfa-preview:hover .city-label,
+.gaziantep-preview:hover .city-label,
+.hatay-preview:hover .city-label,
+.adana-preview:hover .city-label,
+.antalya-preview:hover .city-label{
+    opacity: 0;
+}
+
+.location-icon{
+    width: 25px;
+    margin-right: 4px;
+}
+
+.city-name{
+    font-size: 21px;
+    font-weight: bold;
+    font-family: Arial;
+    color: white;
+}
+
+
