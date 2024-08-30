@@ -306,13 +306,13 @@
                     const sidebarPreviewsContainer = document.getElementById('sidebar-previews');
                     const sidebarPreviews = Array.from(sidebarPreviewsContainer.children);
         
-                    // kopyasini olusturdun sonra karistirdin
+                    
                     const shuffledPreviews = sidebarPreviews.slice().sort(() => Math.random() - 0.5);
         
                 
                     sidebarPreviewsContainer.innerHTML = '';
         
-                    // icine ekledin
+                    
                     shuffledPreviews.forEach(preview => {
                         sidebarPreviewsContainer.appendChild(preview);
                     });
