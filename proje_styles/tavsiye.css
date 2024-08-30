@@ -42,7 +42,7 @@
     width: 380px;
     height: 250px;
     margin-right: 20px;
-    box-shadow: 0 0 6px rgba(0,0,0,0.6); /*silebilirsin */
+    box-shadow: 0 0 6px rgba(0,0,0,0.6); 
 }
 
 .advice-preview-text-area{
@@ -79,7 +79,7 @@
     }
 
     .advice-preview img {
-        width: 100%;  /* ogelerin enini %100 yapmak, onları icinde oldugu div'in genişliğini tamamen kaplayacak şekilde ayarlar. */
+        width: 100%;  
         height: auto;
         margin-right: 0;
         margin-bottom: 20px;
