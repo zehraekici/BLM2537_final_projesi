@@ -2,6 +2,7 @@ Tatil Sitesi
 Sitemde amacım kullanıcıya en uygun tatil yerini seçmesinde yardım etmek ve gitmeye karar verdiği yer için göz önünde bulundurması gereken detayları hatırlatmaktır.
 
 Sitemde temel olarak dört ana kısım bulunmaktadır. Bunlar :
+
 • Ana Sayfa
 • Yurt İçi Sayfası
 • Yurt Dışı Sayfası
