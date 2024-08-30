@@ -11,7 +11,7 @@ Sitemde temel olarak dört ana kısım bulunmaktadır. Bunlar :
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License]
 
 1.Ana Sayfa
 Ana sayfamda kendi oluşturduğum “tatil planları” adlı bir seyahat acentesinin genel özellikleri bulunmaktadır. Bu sayfada en üstte “navbar” bulunmaktadır. Buradan üstte bahsettiğim ana kısımlara gidilebilmektedir.
