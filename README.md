@@ -10,7 +10,7 @@ Sitemde temel olarak dört ana kısım bulunmaktadır. Bunlar :
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- (#contributing)
 - [License]
 
 1.Ana Sayfa
