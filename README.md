@@ -13,10 +13,8 @@ Sitemde temel olarak dört ana kısım bulunmaktadır. Bunlar :
  
 <br>
 <img width="800" height="460" alt="Ekran Resmi 2024-08-30 21 53 16" src="https://github.com/user-attachments/assets/ff99da89-9a1a-4359-b10f-b6c1686a1196">
-<br><br>
 
 <img width="632" alt="Ekran Resmi 2024-08-30 22 35 01" src="https://github.com/user-attachments/assets/c053afe7-0cda-4844-9acc-90efc1e16019">
-<img width="632" alt="Ekran Resmi 2024-08-30 22 36 56" src="https://github.com/user-attachments/assets/56910d1c-66c6-46da-91f4-b7ed048f0a49">
 
 ### 2.Yurt İçi Sayfası
 
