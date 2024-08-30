@@ -10,15 +10,16 @@ Sitemde temel olarak dört ana kısım bulunmaktadır. Bunlar :
 
 ### 1.Ana Sayfa
  Ana sayfamda kendi oluşturduğum “tatil planları” adlı bir seyahat acentesinin genel özellikleri bulunmaktadır. Bu sayfada en üstte “navbar” bulunmaktadır. Buradan üstte bahsettiğim ana kısımlara gidilebilmektedir.
- 
-<br>
-<img width="800" height="460" alt="Ekran Resmi 2024-08-30 21 53 16" src="https://github.com/user-attachments/assets/ff99da89-9a1a-4359-b10f-b6c1686a1196">
+ <br></br>
 
+<img width="800" height="460" alt="Ekran Resmi 2024-08-30 21 53 16" src="https://github.com/user-attachments/assets/ff99da89-9a1a-4359-b10f-b6c1686a1196">
+<br></br><br></br>
 <img width="632" alt="Ekran Resmi 2024-08-30 22 35 01" src="https://github.com/user-attachments/assets/c053afe7-0cda-4844-9acc-90efc1e16019">
 
 ### 2.Yurt İçi Sayfası
 
 Yurt içi sayfasında kullanıcın seçebileceği Türkiye’den olmak üzere dokuz tane şehir karışık şekilde bulunmaktadır.
+<br></br>
 
 <img width="632" alt="Ekran Resmi 2024-08-30 22 39 12" src="https://github.com/user-attachments/assets/83c9c0e1-1069-4914-b58e-c1cbc678fea1">
 
@@ -39,6 +40,7 @@ Yurt içi sayfasında kullanıcın seçebileceği Türkiye’den olmak üze
 ### 3.Yurt Dışı Sayfası
 
 Bu sayfada kullanıcın seçebileceği üç tane ülke bulunmaktadır. Bunlar “İtalya”, “Mısır” ve “Japonya”dır.
+<br></br>
 
 <img width="632" alt="Ekran Resmi 2024-08-30 22 51 41" src="https://github.com/user-attachments/assets/f647dcf2-8dad-4e7a-9a5f-be1e02c55cd2">
 
@@ -56,6 +58,7 @@ Bu sayfada kullanıcın seçebileceği üç tane ülke bulunmaktadır. Bunl
 Bu sayfada kullanıcının yapacağı tatil için göz önünde bulundurması gereken konular hakkında yazılar bulunmaktadır. Bu yazıların başlıkları “İlk kez tek başına seyahate çıkacaklara tavsiyeler” , “Otel seçerken dikkat edilmesi gerekenler nelerdir?” ve “En kullanışlı yurt dışı seyahat uygulamaları” olmak üzere üç tanedir.
 
 Kullanıcı bunlardan herhangi birini seçip o yazının bulunduğu sayfaya gidebilir.
+<br></br>
 
 <img width="632" alt="Ekran Resmi 2024-08-30 23 01 09" src="https://github.com/user-attachments/assets/afb3096d-0704-4710-8c1a-33eff187ff1d">
 
