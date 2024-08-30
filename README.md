@@ -6,7 +6,7 @@ Sitemde temel olarak dört ana kısım bulunmaktadır. Bunlar :
 - [Ana Sayfa](https://github.com/zehraekici/Tatil-sitesi/blob/main/README.md#1ana-sayfa)
 - [Yurt İçi Sayfası](https://github.com/zehraekici/Tatil-sitesi/blob/main/README.md#2yurt-i%CC%87c%CC%A7i-sayfas%C4%B1)
 - [Yurt Dışı Sayfası](https://github.com/zehraekici/Tatil-sitesi/blob/main/README.md#3yurt-d%C4%B1%C5%9F%C4%B1-sayfas%C4%B1)
-- [Seyahat İpuçları Sayfası](https://github.com/zehraekici/Tatil-sitesi/edit/main/README.md#4seyahat-i%CC%87puc%CC%A7lar%C4%B1-sayfas%C4%B1)
+- [Seyahat İpuçları Sayfası](https://github.com/zehraekici/Tatil-sitesi/blob/main/README.md#4seyahat-i%CC%87puc%CC%A7lar%C4%B1-sayfas%C4%B1)
 
 ### 1.Ana Sayfa
  Ana sayfamda kendi oluşturduğum “tatil planları” adlı bir seyahat acentesinin genel özellikleri bulunmaktadır. Bu sayfada en üstte “navbar” bulunmaktadır. Buradan üstte bahsettiğim ana kısımlara gidilebilmektedir.
